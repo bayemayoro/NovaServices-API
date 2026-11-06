@@ -1,2 +1,2 @@
-# NovaServices-API
-API de tickets informatique NovaServices
+# novaservices-api
+API de tickets informatiques NovaServices
